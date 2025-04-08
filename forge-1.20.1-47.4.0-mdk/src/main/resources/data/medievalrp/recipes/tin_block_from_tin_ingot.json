@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "medievalrp:tin_ingot"
+    }
+  },
+  "result": {
+    "item": "medievalrp:tin_block"
+  }
+}

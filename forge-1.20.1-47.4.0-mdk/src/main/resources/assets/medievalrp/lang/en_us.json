@@ -1,0 +1,15 @@
+{
+  "item.medievalrp.bronze_ingot": "Bronze Ingot",
+  "item.medievalrp.tin_ingot": "Tin Ingot",
+  "item.medievalrp.raw_tin": "Raw Tin",
+  "item.medievalrp.metal_detector": "Metal Detector",
+
+  "block.medievalrp.tin_ore": "Tin Ore",
+  "block.medievalrp.deepslate_tin_ore": "Deepslate Tin Ore",
+
+  "block.medievalrp.tin_block": "Block of Tin",
+  "block.medievalrp.bronze_block": "Block of Bronze",
+
+  "creativetab.medieval_tab": "Medieval RP"
+
+}
