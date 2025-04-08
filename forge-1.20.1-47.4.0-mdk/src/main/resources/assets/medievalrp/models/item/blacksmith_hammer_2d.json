@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "medieval:item/blacksmith_hammer_3d"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "tin_ingot",
+  "ingredient": {
+    "item": "medievalrp:raw_tin"
+  },
+  "result": "medievalrp:tin_ingot"
+}

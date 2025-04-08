@@ -29,6 +29,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModBlocks.SOUND_BLOCK.get());
                         pOutput.accept(ModItems.BEER.get());
                         pOutput.accept(ModItems.CONE.get());
+                        pOutput.accept(ModItems.BLACKSMITH_HAMMER.get());
 
                     })
                     .build());

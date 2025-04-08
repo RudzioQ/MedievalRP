@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "medievalrp:item/blacksmith_hammer_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "medievalrp:item/blacksmith_hammer_3d"
+    },
+    "ground": {
+      "parent": "medievalrp:item/blacksmith_hammer_3d"
+    },
+    "fixed": {
+      "parent": "medievalrp:item/blacksmith_hammer_3d"
+    }
+  }
+
+}

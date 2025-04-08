@@ -1,6 +1,7 @@
 package net.rudzioq.medievalrp.item;
 
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.Rarity;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -26,9 +27,14 @@ public class ModItems {
             () -> new MetalDetectorItem(new Item.Properties().durability(10)));
 
     public static final RegistryObject<Item> BEER = ITEMS.register("beer",
-            () -> new Item(new Item.Properties().food(ModFoods.BEER)));
+            () -> new Item(new Item.Properties().food(ModFoods.BEER).rarity(Rarity.EPIC)));
+
     public static final RegistryObject<Item> CONE = ITEMS.register("cone",
             () -> new FuelItem(new Item.Properties(), 100));
+
+    public static final RegistryObject<Item> BLACKSMITH_HAMMER = ITEMS.register("blacksmith_hammer",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+
 
 
 

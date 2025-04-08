@@ -1,0 +1,16 @@
+// 1.20.1	2025-04-08T20:35:26.4719996	Block States: medievalrp
+d6c4e0d4bfcba1f8bd7a62dc4112c06032a982eb assets/medievalrp/blockstates/bronze_block.json
+8eed655c749d4fc452ceb5993804ac1461f28143 assets/medievalrp/blockstates/deepslate_tin_ore.json
+4233c45fd4ecb10b0b2da9fc5eda29f503cc48a8 assets/medievalrp/blockstates/sound_block.json
+1e5b7a2cf14ce35bba887aca29784e49970236e8 assets/medievalrp/blockstates/tin_block.json
+72db8a72d4d73852fdafb3d8a8cdbd369a245ec3 assets/medievalrp/blockstates/tin_ore.json
+49ca1354b421556a1ce6c16ef18cee68cb5c91ca assets/medievalrp/models/block/bronze_block.json
+568e0910717bb47f46655d2010102afa2e613bc4 assets/medievalrp/models/block/deepslate_tin_ore.json
+b2c3c741fbda0c3ddf19077ebaa08d18a176e116 assets/medievalrp/models/block/sound_block.json
+bd5884f277167c5a51007c066e0e889482b31711 assets/medievalrp/models/block/tin_block.json
+d7fb908e93276e19900aaa7a8089d2b2fbeb8e0b assets/medievalrp/models/block/tin_ore.json
+5106408f5d3019689f020c92897a2dc917c9e4bb assets/medievalrp/models/item/bronze_block.json
+b4d85fb2be00233af22224f38edb643b07316836 assets/medievalrp/models/item/deepslate_tin_ore.json
+c42e0f1b41fedb82a66d1cf4c74ce3471ff7b5f6 assets/medievalrp/models/item/sound_block.json
+942e587ed1f623d70a57f908abb9edade70b8cee assets/medievalrp/models/item/tin_block.json
+c2bd00672595861bc9c462037714af4c0fe0afb5 assets/medievalrp/models/item/tin_ore.json

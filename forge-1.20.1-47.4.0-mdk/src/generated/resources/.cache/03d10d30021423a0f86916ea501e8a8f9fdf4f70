@@ -1,0 +1,5 @@
+// 1.20.1	2025-04-08T20:43:20.5815771	Tags for minecraft:block mod id medievalrp
+1841d2a3adb2675bfb65ba4dd20a509cfbccf598 data/medievalrp/tags/blocks/metal_detector_valuables.json
+a34a623f37e1d8917c6d51c84487a539411f812c data/minecraft/tags/blocks/mineable/pickaxe.json
+86d6617eff69c41b21714c8c73ca77c19a24a7b1 data/minecraft/tags/blocks/needs_iron_tool.json
+6835cafd799bb0b66c55e7e9f47df52303ec0cfc data/minecraft/tags/blocks/needs_stone_tool.json
