@@ -26,6 +26,8 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.METAL_DETECTOR.get());
                         pOutput.accept(ModBlocks.TIN_BLOCK.get());
                         pOutput.accept(ModBlocks.BRONZE_BLOCK.get());
+                        pOutput.accept(ModBlocks.SOUND_BLOCK.get());
+                        pOutput.accept(ModItems.BEER.get());
 
                     })
                     .build());

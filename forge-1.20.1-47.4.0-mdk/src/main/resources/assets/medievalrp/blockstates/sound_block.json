@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "medievalrp:block/sound_block"
+    }
+  }
+}
