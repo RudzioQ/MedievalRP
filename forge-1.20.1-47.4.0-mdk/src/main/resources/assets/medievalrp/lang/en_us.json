@@ -4,6 +4,7 @@
   "item.medievalrp.raw_tin": "Raw Tin",
   "item.medievalrp.metal_detector": "Metal Detector",
   "item.medievalrp.beer": "Beer",
+  "item.medievalrp.cone": "Cone",
 
   "block.medievalrp.tin_ore": "Tin Ore",
   "block.medievalrp.deepslate_tin_ore": "Deepslate Tin Ore",
@@ -12,6 +13,8 @@
   "block.medievalrp.bronze_block": "Block of Bronze",
   "block.medievalrp.sound_block": "Sound Block",
 
-  "creativetab.medieval_tab": "Medieval RP"
+  "creativetab.medieval_tab": "Medieval RP",
+
+  "medievalrp.metal_detector.tooltip": "The tool for finding ores under ground."
 
 }

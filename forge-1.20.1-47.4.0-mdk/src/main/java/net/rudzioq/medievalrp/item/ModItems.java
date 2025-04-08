@@ -6,6 +6,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.rudzioq.medievalrp.Medieval;
+import net.rudzioq.medievalrp.item.custom.FuelItem;
 import net.rudzioq.medievalrp.item.custom.MetalDetectorItem;
 
 public class ModItems {
@@ -26,6 +27,8 @@ public class ModItems {
 
     public static final RegistryObject<Item> BEER = ITEMS.register("beer",
             () -> new Item(new Item.Properties().food(ModFoods.BEER)));
+    public static final RegistryObject<Item> CONE = ITEMS.register("cone",
+            () -> new FuelItem(new Item.Properties(), 100));
 
 
 
